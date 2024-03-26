@@ -7,3 +7,5 @@ Depending on usecases one should upgrade to any modern alternatives.
 * For password hashing use [Yescrypt](https://www.openwall.com/yescrypt/)
 
 If you want to sponsor me working on this more, please consider dontating at https://github.com/sponsors/xnox
+
+Source code created to port software away from SHA1 is generally released under permissive license, or not even copyrightable due to being trivial in its nature, or actually simply deleting existing code.
