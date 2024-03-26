@@ -1,4 +1,12 @@
-This project is to aggregate issues in any open source projects that still use obsolete and deprecated SHA1 algorithm.
+This project is to aggregate issues in any open source projects that still use obsolete and deprecated SHA1 and weaker algorithms. These include removal of:
+
+* SHA2-224 (not strong enough in 2030+)
+* SHA1-128 (obsolete, prohibited in 2030+)
+* MD5 (should be dead)
+* MD4
+* MD2
+* WHIRLPOOL
+* RIPEMD160
 
 Depending on usecases one should upgrade to any modern alternatives.
 
