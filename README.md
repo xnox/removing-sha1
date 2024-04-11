@@ -2,6 +2,8 @@ This project is to aggregate issues in any open source projects that still use o
 
 * SHA2-224 (not strong enough in 2030+)
 * SHA1-128 (obsolete, prohibited in 2030+)
+* DES
+* DSA
 * MD5 (should be dead)
 * MD4
 * MD2
